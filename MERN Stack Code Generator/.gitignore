@@ -1,0 +1,63 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.* 
+
+# Build outputs
+dist/
+build/
+.temp/
+.cache/
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# React build (if used)
+frontend/build/
+client/build/
+
+# Python (if using FastAPI backend)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Zip and temp files
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Test reports
+test-output/
+junit.xml
+
+# Misc
+*.swp
+*.swo
+*.bak
