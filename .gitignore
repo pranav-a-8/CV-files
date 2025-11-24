@@ -1,0 +1,7 @@
+Amazon_ML_challenge/dataset/
+Amazon_ML_challenge/models/
+Amazon_ML_challenge/submission_ensemble.csv
+Hotel Review Sentiment Analyzer/tripadvisor_hotel_reviews.csv
+TRIDENT/Attention/best_weights_epoch_041.pth
+TRIDENT/comparison_results/comparison_images/
+TRIDENT/physics_encoder/checkpointsphy/
